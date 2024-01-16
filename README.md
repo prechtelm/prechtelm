@@ -5,9 +5,7 @@
 ## I'm a Developer, Team-Lead and Migration-Specialist at clearTime and Capgemini!!
 
 - 🌱 I’m currently learning everything 😅
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and hike
+- 🥅 Contribute more to Open Source projects
 
 ### Connect with me:
 

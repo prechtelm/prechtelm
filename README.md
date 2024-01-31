@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=cleartime.care&style=for-the-badge&url=https://cleartime.care/)](https://cleartime.care/)
 
-## I'm a Developer, Team-Lead and Migration-Specialist at clearTime and Capgemini!!
+## I'm a Developer, Team-Lead and Migration-Specialist
 
 - 🌱 I’m currently learning everything 😅
 - 🥅 Contribute more to Open Source projects
